@@ -102,6 +102,10 @@ Funções extras, como transformações (ex: Logaritmo, para realce de detalhes)
 
 ---
 
+Video demo do projeto funcionando: https://drive.google.com/file/d/1Ib8aizQvvvLqgKVFDmydRiZeQ52udqp5/view?usp=sharing
+
+---
+
 ### Equipe
 * Átila Gomes Viana
 * João Pedro Diniz Guerra Rosa Cruz
